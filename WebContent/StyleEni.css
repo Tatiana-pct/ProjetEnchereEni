@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1 {
+	font-size: 95px;
+	text-align: center;
+	font-style: italic;
+	color: rgb(31, 28, 32), 122;
+	font-family: "Stencil";
+	border-radius: 20px 10px;
+	text-shadow: 10px 10px 5px rgb(19, 111, 197);
+	width: 1000px;
+	margin: auto;
+}
+body {
+  background-image: url("https://www.wallpapertip.com/wmimgs/171-1719824_light-background-image-css.jpg");
+  
+}
